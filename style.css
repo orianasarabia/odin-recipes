@@ -1,4 +1,4 @@
-body{
+.main-1{
     background-color: #FFF0F5;
     
 }
@@ -10,7 +10,7 @@ h1{
     text-align: center;
 }
 
-img{
+.img-1{
     width: 500px;
     height: auto;
     display: block;
@@ -19,9 +19,59 @@ img{
 
 }
 
-p{
+.main{
     text-align: center;
     color:#B93160;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
 }
+
+.img-2,
+.img-3,
+.img-4 {
+    
+    width: 33.33%;
+    height: auto;
+    
+
+}
+
+.img-2 {
+
+    
+    float: right;
+}
+
+.img-3{
+
+ float: left;
+
+}
+
+
+.main-2{
+background-color:#FFF0F5;
+font-family: sans-serif;
+text-align: justify;
+}
+
+.p1,
+.p2,
+.p3,
+.p4{
+
+    font-size: 24px;
+
+}
+
+.p1{
+text-align: center;
+
+}
+.p2{
+    color: #B93160;
+}
+.list-1{
+    font-weight: bold;
+}
+ .p4 {color: #B93160;}
